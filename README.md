@@ -94,17 +94,14 @@ endmodule
  Developed by:Mahalakshmi.M RegisterNumber: 25015887
  
 **Logic symbol & Truthtable**
-![OIP](https://github.com/user-attachments/assets/daf3ef5b-aabf-4e5c-8b8c-c612721ffe48)
-
 
 **RTL realization Output:** 
-
-![out](https://github.com/user-attachments/assets/47f5bde8-28ff-4ac6-aed4-883c00ec0497)
-
+<img width="910" height="546" alt="image" src="https://github.com/user-attachments/assets/616777af-951a-4a87-bfcf-3c6069c46a74" />
 
 **RTL**
+<img width="983" height="295" alt="image" src="https://github.com/user-attachments/assets/f5cf7ed6-5f24-4129-90ac-ceee9fe19a74" />
 
-![ci](https://github.com/user-attachments/assets/8420aa88-46ee-4d51-ae66-07e7ad86dbf7)
+
 
 
 **Result:**
